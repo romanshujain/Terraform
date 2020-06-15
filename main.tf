@@ -1,4 +1,4 @@
-//provider "aws" {
+provider "aws" {
 //  region = "ap-northeast-1"
 //  profile = "3ri"
 //}
